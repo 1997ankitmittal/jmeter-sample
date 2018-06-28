@@ -4,6 +4,10 @@
 
 `jmeter -n -t Users.jmx` 
 
+## Set Up Machine
+
+1) Install Apache JMeter from [https://jmeter.apache.org/download\_jmeter.cgi](https://jmeter.apache.org/download_jmeter.cgi)
+
 
 ## Note:
 
