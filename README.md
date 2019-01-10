@@ -12,4 +12,6 @@
 ## Note:
 
 JMeter file create an new XML file every time the command above gets run with the timestamp in millis appended to the filename.  
- 
+
+### How to use sample package to integrate with Universal Agent of qTest Automation Host
+![Agent Configuration](/JMeter-with-Universal-Agent.png?raw=true)
